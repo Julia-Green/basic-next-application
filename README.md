@@ -5,6 +5,6 @@
 
 ## Helpful Resources:
 
-- (https://nodejs.org/en/download/)
-- (https://www.geeksforgeeks.org/next-js-create-next-app/)
-- (https://nextjs.org/learn/pages-router/create-nextjs-app-setup)
+- https://nodejs.org/en/download/
+- https://www.geeksforgeeks.org/next-js-create-next-app/
+- https://nextjs.org/learn/pages-router/create-nextjs-app-setup
